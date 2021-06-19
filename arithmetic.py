@@ -1,0 +1,10 @@
+print("ingresa 1 golpe")
+num1=int(input())
+print("ingresa 2 golpes")
+num2=int(input())
+print("ingresa 3 golpes")
+num3=int(input())
+print("ingresa 4 golpes")
+num4=int(input())
+resultado = num1 + num2 + num3 + num4
+print(resultado)
