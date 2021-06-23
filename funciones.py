@@ -1,5 +1,5 @@
 def saludar(nombre):
-    return "Hola {} bienvenido al juego de Cody".format(nombre)
+    return "Hola {} bienvenido al Sword Art Online".format(nombre)
 
 print("Ingresa tu nombre")
 nombre = input()
