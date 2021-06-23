@@ -1,7 +1,7 @@
-print("ingresa tu nivel de poder")
+print("ingresa tu cantidad de dinero")
 numero = int(input())
 if numero >= 20000:
-    print("tu nivel de poder es mayor")
+    print("tu cantidad es poca")
 else:
-    print("tu nivel de poder es bajo")
+    print("tu cantidad es mucha")
         
