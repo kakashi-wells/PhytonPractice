@@ -1,3 +1,3 @@
-saludo = "Hello"
-nombre= "Universe"
+saludo = "Konichiwa"
+nombre= "kakashi-wells"
 print(saludo + nombre)
